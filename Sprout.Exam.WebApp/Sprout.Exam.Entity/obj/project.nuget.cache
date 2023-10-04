@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9jlP+kwXpGyVmNN3LaqUMqZT9SWerkF/l6geYfo4YrhD2SoTsS3RBn71tJqgq959g40DHiMZxwI6slM2SQk3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.11\\microsoft.aspnetcore.cryptography.internal.7.0.11.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.11\\microsoft.aspnetcore.cryptography.keyderivation.7.0.11.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.11\\microsoft.extensions.identity.core.7.0.11.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.11\\microsoft.extensions.identity.stores.7.0.11.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0\\system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

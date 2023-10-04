@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Exam.Common.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.DataAccess\Sprout.Exam.DataAccess.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Entity\Sprout.Exam.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

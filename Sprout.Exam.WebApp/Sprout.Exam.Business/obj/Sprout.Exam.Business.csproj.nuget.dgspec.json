@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj",
+        "projectName": "Sprout.Exam.Business",
+        "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj": {
+                "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj"
+              },
+              "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj"
+              },
+              "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj": {
+                "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj",
+        "projectName": "Sprout.Exam.Common",
+        "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj",
+        "projectName": "Sprout.Exam.DataAccess",
+        "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\Sprout.Exam.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj": {
+                "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.AspNetCore.DataProtection": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj",
+        "projectName": "Sprout.Exam.Entity",
+        "projectPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\Sprout.Exam.Entity.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerem\\source\\repos\\jeremy-ra\\WebApp\\Sprout.Exam.WebApp\\Sprout.Exam.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
