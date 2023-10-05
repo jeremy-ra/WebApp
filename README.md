@@ -1,5 +1,5 @@
 # WebApp
 Task for next improvement todo.
-- Add logging of text file in the layers.
-- Additional refactoring in the methods and improvement of the architecture.
+- Add logging in the layers.
+- Additional refactoring in the methods if needed and ui improvement.
 - Improve the unit test, add additional test scenarios.
